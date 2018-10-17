@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0b5e27d4-5597-4774-bd3c-30d4833336b7" name="snap-function-php" url="https://bootcamp-coders.cnm.edu/~spelot/snap-function-php/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/spelot/public_html/snap-function-php" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
